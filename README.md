@@ -43,6 +43,6 @@ Electric Vehicle Title and Registration Activity (https://data.wa.gov/Transporta
 
 Similarly other intermediate calculation files were not possible to upload here.
 
-The report is a very good guide to the methods and analysis use in this prroject.
+The report is a very good guide to the methods and analysis used in this prroject.
 
 

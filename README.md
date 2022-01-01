@@ -31,3 +31,18 @@ across the city. Additionally, they want to know which are the top electric vehi
 in the chosen cities to analyse plugs and electronics compatibility with their system. Finally, 
 they want to understand the development in time of the number EVs in the chosen cities and 
 the evolution of the number of EVs in terms of makers.
+
+## Important note
+Only some of the files were uploaded here because of maximum file size allowance at Github.
+
+Only one of the input datasets is founded here. 
+You can find the datasets here:
+Electric Vehicle Population Data (https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2).
+
+Electric Vehicle Title and Registration Activity (https://data.wa.gov/Transportation/Electric-Vehicle-Title-and-Registration-Activity/rpr4-cgyd).
+
+Similarly other intermediate calculation files were not possible to upload here.
+
+The report is a very good guide to the methods and analysis use in this prroject.
+
+
